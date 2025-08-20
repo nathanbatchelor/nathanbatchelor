@@ -4,7 +4,7 @@ Hey, I’m **Nathan** 👋
 
 🎓 Computer Science student @ Carleton University (Software Engineering, Co-op)  
 💻 Passionate about building software that makes coordination and collaboration easier  
-🚀 Currently working on [**Group Planner**](https://github.com/nathanbatchelor/group-planner), a scheduling and engagement app for groups  
+🚀 Currently working on [**Group Planner**](https://github.com/nathanbatchelor/group-planner-showcase), a scheduling and engagement app for groups  
 🔧 Experienced with Java, Python, C++, TypeScript/JavaScript, React, Next.js, Spring Boot, PostgreSQL  
 📊 Exploring machine learning with PyTorch and Hugging Face  
 
